@@ -1,0 +1,128 @@
+[
+  {
+    "id": "credential-123",
+    "isValid": true,
+    "verifiedAt": "2025-10-07T17:21:01.571Z",
+    "issuer": "Unknown",
+    "issuedAt": "2025-10-07T17:20:57.728Z",
+    "status": "valid"
+  },
+  {
+    "id": "credential-1123",
+    "isValid": false,
+    "verifiedAt": "2025-10-07T17:21:52.313Z",
+    "reason": "Credential not found"
+  },
+  {
+    "id": "credential-1123",
+    "isValid": false,
+    "verifiedAt": "2025-10-07T17:21:53.794Z",
+    "reason": "Credential not found"
+  },
+  {
+    "id": "credential-1123",
+    "isValid": false,
+    "verifiedAt": "2025-10-07T17:21:54.433Z",
+    "reason": "Credential not found"
+  },
+  {
+    "id": "credential-1123",
+    "isValid": false,
+    "verifiedAt": "2025-10-07T17:21:54.637Z",
+    "reason": "Credential not found"
+  },
+  {
+    "id": "credential-1123",
+    "isValid": false,
+    "verifiedAt": "2025-10-07T17:21:54.837Z",
+    "reason": "Credential not found"
+  },
+  {
+    "id": "credential-1123",
+    "isValid": false,
+    "verifiedAt": "2025-10-07T17:21:55.021Z",
+    "reason": "Credential not found"
+  },
+  {
+    "id": "credential-1123",
+    "isValid": false,
+    "verifiedAt": "2025-10-07T17:21:55.211Z",
+    "reason": "Credential not found"
+  },
+  {
+    "id": "credential-1123",
+    "isValid": false,
+    "verifiedAt": "2025-10-07T17:21:55.391Z",
+    "reason": "Credential not found"
+  },
+  {
+    "id": "credential-123",
+    "isValid": true,
+    "verifiedAt": "2025-10-07T17:22:02.500Z",
+    "issuer": "Unknown",
+    "issuedAt": "2025-10-07T17:20:57.728Z",
+    "status": "valid"
+  },
+  {
+    "id": "credential-123",
+    "isValid": true,
+    "verifiedAt": "2025-10-07T17:22:14.788Z",
+    "issuer": "Unknown",
+    "issuedAt": "2025-10-07T17:20:57.728Z",
+    "status": "valid"
+  },
+  {
+    "id": "credential-1123",
+    "isValid": true,
+    "verifiedAt": "2025-10-07T17:22:18.448Z",
+    "issuer": "Unknown",
+    "issuedAt": "2025-10-07T17:22:11.598Z",
+    "status": "valid"
+  },
+  {
+    "id": "credential-1123",
+    "isValid": true,
+    "verifiedAt": "2025-10-07T17:22:19.389Z",
+    "issuer": "Unknown",
+    "issuedAt": "2025-10-07T17:22:11.598Z",
+    "status": "valid"
+  },
+  {
+    "id": "credential-1123",
+    "isValid": true,
+    "verifiedAt": "2025-10-07T17:22:19.610Z",
+    "issuer": "Unknown",
+    "issuedAt": "2025-10-07T17:22:11.598Z",
+    "status": "valid"
+  },
+  {
+    "id": "credential-11231",
+    "isValid": false,
+    "verifiedAt": "2025-10-07T17:22:21.865Z",
+    "reason": "Credential not found"
+  },
+  {
+    "id": "credential-123",
+    "isValid": true,
+    "verifiedAt": "2025-10-07T17:22:36.425Z",
+    "issuer": "Unknown",
+    "issuedAt": "2025-10-07T17:20:57.728Z",
+    "status": "valid"
+  },
+  {
+    "id": "cred123",
+    "isValid": true,
+    "verifiedAt": "2025-10-07T17:24:25.614Z",
+    "issuer": "Test Issuer",
+    "issuedAt": "2025-10-07T17:24:10.905Z",
+    "status": "valid"
+  },
+  {
+    "id": "credential-123",
+    "isValid": true,
+    "verifiedAt": "2025-10-07T17:26:09.387Z",
+    "issuer": "Unknown",
+    "issuedAt": "2025-10-07T17:20:57.728Z",
+    "status": "valid"
+  }
+]
