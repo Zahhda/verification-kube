@@ -124,5 +124,13 @@
     "issuer": "Unknown",
     "issuedAt": "2025-10-07T17:20:57.728Z",
     "status": "valid"
+  },
+  {
+    "id": "credential-123",
+    "isValid": true,
+    "verifiedAt": "2025-10-07T17:55:50.264Z",
+    "issuer": "Unknown",
+    "issuedAt": "2025-10-07T17:20:57.728Z",
+    "status": "valid"
   }
 ]
